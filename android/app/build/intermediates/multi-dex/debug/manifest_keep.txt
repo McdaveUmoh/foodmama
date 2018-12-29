@@ -1,0 +1,3 @@
+# Referenced at /home/mcdave/Desktop/foodmama/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:27
+-keep class com.restaurantapp.MainApplication { <init>(...); }
+
